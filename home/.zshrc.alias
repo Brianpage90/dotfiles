@@ -1,3 +1,4 @@
 alias gst="git status"
 alias la="ls -a"
 alias ll="ls -l"
+alias tw="ta work || ts work"
