@@ -1,0 +1,9 @@
+[user]
+	name = Brian Page
+	email = brian.page.90@gmail.com
+[color]
+	ui = true
+[github]
+	user = Brianpage90
+[push]
+	default = simple
